@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "amapiano-inspired-chords-leads",
+  "display_name": "Amapiano-Inspired Chords and Leads Studies",
+  "brief_name": "Amapiano-Inspired Chords and Leads",
+  "creative_intention": "Warm minor-seventh keyboard shells and melodic exchanges.",
+  "rhythmic_direction": "Relaxed syncopated entries leave clear bass space.",
+  "palette": "Keyboard-like harmony, bass, lead and programmed percussion.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack amapiano-inspired-chords-leads",
+  "actual_tempo_bpm": 112,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "ai01",
+      "title": "Warm Keys",
+      "tonic": "C",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ai02",
+      "title": "Woven Light",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ai03",
+      "title": "Soft Reply",
+      "tonic": "F#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ai04",
+      "title": "Amber Room",
+      "tonic": "C#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}

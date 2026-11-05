@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/amapiano-inspired-chords-leads-simple-synth-preview.mp3",
+  "preview_sha256": "1be7998a9d5d7b0cd5eaef2382c27010a606162a3741ee6cea95c2b7d508a6ac",
+  "source_midi_path": "midi/ai01-warm-keys/ai01-warm-keys-combined.mid",
+  "source_midi_sha256": "15b8f448982034d1a9d804d4f6ef07640e6611bf804036ea9ba6c5398a670926",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "ai01",
+    "start_seconds": 0,
+    "end_seconds": 68.571
+  },
+  "measurement": {
+    "sample_peak": 0.107261,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

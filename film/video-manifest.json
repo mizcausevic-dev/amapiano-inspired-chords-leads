@@ -1,0 +1,26 @@
+{
+  "title": "Amapiano-Inspired Chords and Leads",
+  "study": "ai01",
+  "bpm": 112,
+  "source_audio": "preview/amapiano-inspired-chords-leads-simple-synth-preview.mp3",
+  "source_audio_sha256": "1be7998a9d5d7b0cd5eaef2382c27010a606162a3741ee6cea95c2b7d508a6ac",
+  "source_midi": "midi/ai01-warm-keys/ai01-warm-keys-combined.mid",
+  "source_midi_sha256": "15b8f448982034d1a9d804d4f6ef07640e6611bf804036ea9ba6c5398a670926",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "bfb391f14cc6365895002225ba17077d3f22183321c80ea489dc3e56713257e3",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "fbf19074c5e0a46f7d5e81bd89d2ed5a7662f1726a85d2b29eb6ef90ad8c90b2",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "05825824945294c7ec3219d269c8d9c2f21542dcac5cf112feb71292f547b585",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
