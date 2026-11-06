@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T14:22:54.658227+00:00",
+  "run_time_utc": "2026-11-06T19:16:11.918437+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -8,8 +8,8 @@
   "midi_files": [
     {
       "path": "midi/ai01-warm-keys/ai01-warm-keys-combined.mid",
-      "bytes": 5503,
-      "sha256": "15b8f448982034d1a9d804d4f6ef07640e6611bf804036ea9ba6c5398a670926",
+      "bytes": 5553,
+      "sha256": "e41301d4492065262d169da80d33835ddaf5a47be29ca81c5653884cfa8deb8d",
       "errors": []
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "midi/ai01-warm-keys/principal_motif.mid",
-      "bytes": 730,
-      "sha256": "1e60eb92de830c26734ce665ee93621f5a3297f727958f0c8b2669fca0bbef13",
+      "bytes": 780,
+      "sha256": "236100d8cdf2a0211b4e21e563beb18ea0bb96a821d2b72fec0301d2d5395a40",
       "errors": []
     },
     {
@@ -50,8 +50,8 @@
     },
     {
       "path": "midi/ai02-woven-light/ai02-woven-light-combined.mid",
-      "bytes": 5503,
-      "sha256": "9c6e4a1fe96e0d8cad327432237a6ad8d04bbf963a3431a1f41ef27d0bdeafc9",
+      "bytes": 5574,
+      "sha256": "aadf3b06754d14f4231caca39357658449e4ce225c14d4884bf45374c50ed429",
       "errors": []
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "midi/ai02-woven-light/principal_motif.mid",
-      "bytes": 730,
-      "sha256": "f65b1b776a68f7bb14c422d3450029918a087b36388ab207c97e06d37b37320c",
+      "bytes": 801,
+      "sha256": "d07240e5d258b11ecd9c5ca415cd91b3d05a7b7a81f9ea3164d76aab56e1d2db",
       "errors": []
     },
     {
@@ -92,8 +92,8 @@
     },
     {
       "path": "midi/ai03-soft-reply/ai03-soft-reply-combined.mid",
-      "bytes": 5483,
-      "sha256": "d682a5dead55cb4f03795afcf6f0a23315b7fd090d823e6f7dcfd65aeb8dfea6",
+      "bytes": 5554,
+      "sha256": "e5373e139a6ebb45d790f49c7dcd856b1a5aac5c922c0c27084fd0873e0045ce",
       "errors": []
     },
     {
@@ -116,8 +116,8 @@
     },
     {
       "path": "midi/ai03-soft-reply/principal_motif.mid",
-      "bytes": 710,
-      "sha256": "cb6d8571b55754b0479b71e1fa368f3b8adbb0e930aa23adcb4f65b476478f9d",
+      "bytes": 781,
+      "sha256": "fe23378d8a82bcf949314a579b2823d34716699f43fc9e58656042edfa488211",
       "errors": []
     },
     {
@@ -134,8 +134,8 @@
     },
     {
       "path": "midi/ai04-amber-room/ai04-amber-room-combined.mid",
-      "bytes": 5483,
-      "sha256": "ac7c2c8aeb7f9fcf5a9c960fd6f29400ffad18c9dbb2694fac487d7dcd6ab918",
+      "bytes": 5533,
+      "sha256": "a341b3728087bd8e13a084c9f906dbf4bb53de2da91c42410cb8fec0b12eb8fe",
       "errors": []
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "path": "midi/ai04-amber-room/principal_motif.mid",
-      "bytes": 710,
-      "sha256": "139982ef1c40690a9f4477d49f38d6ce0d3bc9974d3ff29f098a7901a40826df",
+      "bytes": 760,
+      "sha256": "6bf55a6bce514794bf3c8a0bba5ff95c00c686bae4ae59e84fc0bc080d885dc6",
       "errors": []
     },
     {

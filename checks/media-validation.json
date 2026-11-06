@@ -5,10 +5,14 @@
     "audio",
     "video"
   ],
-  "images": "decoded and dimensions checked",
-  "audio": "preview and film decoded with ffmpeg",
-  "captions": "single cue covers 0 to 18 seconds",
-  "disclosure": "On-screen for the entire animated film",
-  "limitations": "Automated checks only; no human listening or visual review.",
-  "motion": "Two frames differ; animated score events and moving artwork"
+  "video_sha256": "e3f6f83ac5a1ba8cfb7e6e3d4c59d89fcd17fe2051019ec909aa24ddf79f2836",
+  "audio_sha256": "7beaf83f673d69f50e5ac44cc0ba6c1c724759053c0eb04ce4efc8d330dc8728",
+  "checks": [
+    "Video and preview decoded by FFmpeg",
+    "Manifest hashes match bytes",
+    "Video has audio and video streams"
+  ],
+  "limitations": [
+    "Automated checks only; no human listening or visual review."
+  ]
 }
