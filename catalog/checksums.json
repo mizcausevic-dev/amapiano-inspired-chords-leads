@@ -278,8 +278,8 @@
     },
     {
       "path": "downloads/amapiano-inspired-chords-leads-midi.zip",
-      "bytes": 34347,
-      "sha256": "c1fa7e302be28ee33248fadf7d396eb60235f9a9b03db2b5b8d1294d0404ba42"
+      "bytes": 36367,
+      "sha256": "07ddd06d6a9db19f610bb09c9d2d0967ba2b86705ed9962930dc7d45931fd1c8"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -313,8 +313,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9815,
-      "sha256": "cbbdea2f904617cd228aaeba04ad71e744ece54af2148ea65c679c074e322606"
+      "bytes": 10005,
+      "sha256": "1a6d6b215f82a16370529b4964de81bfb4b92e10451e01408daa95fed10064f0"
     },
     {
       "path": "midi/ai01-warm-keys/ai01-warm-keys-combined.mid",
@@ -457,6 +457,11 @@
       "sha256": "9882dc3bed68f659874188026b7c8421db83681608fbef2a7f2f75407503aab2"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/amapiano-inspired-chords-leads-simple-synth-preview.mp3",
       "bytes": 1659551,
       "sha256": "7beaf83f673d69f50e5ac44cc0ba6c1c724759053c0eb04ce4efc8d330dc8728"
@@ -468,8 +473,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4095,
-      "sha256": "f745ff9457c1db558dde736632f51713efe9f1eef5739a3a46c19bffb3f493ad"
+      "bytes": 4210,
+      "sha256": "260a33046b624694a2d6c327f941c219e731c54862d283da5a6245ea9b71a908"
     },
     {
       "path": "REVISION.md",
